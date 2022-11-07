@@ -1,6 +1,7 @@
-# Enigma-Machine
+# Breaking The Enigma Machine
 
-## Some History:   ![image](https://user-images.githubusercontent.com/103381319/200268101-aaf7651a-a4f1-4318-b79d-ff0f536287c0.png)
+ ![image](https://user-images.githubusercontent.com/103381319/200268101-aaf7651a-a4f1-4318-b79d-ff0f536287c0.png)
+## Some History: 
 
 The Enigma machine is a cipher device developed and used in the early- to mid-20th century to protect commercial, diplomatic, and military communication.
 It was employed extensively by Nazi Germany during World War II, in all branches of the German military.
