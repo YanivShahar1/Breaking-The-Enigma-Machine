@@ -12,14 +12,15 @@ The difficulty of cracking the Enigma machine:
 [video detailing the issue](https://www.youtube.com/watch?v=G2_Q9FoD-oQ).
 
 ## The entities:
-### • UBoat 
+#### • UBoat 
 A German submarine responsible for determining an initial code for the machine, distributing an encrypted message and deciding which of the different teams was able to decode the message accurately (winner of the competition).
 
-### • Allies  
+#### • Allies  
 Decoding teams of the allies competing among themselves to be the first to succeed in deciphering the encrypted message transmitted by the UBoat.
 
-### • Agent
+#### • Agent
 Agents who are members of the various decoding teams and are responsible for performing the decoding tasks themselves. Each agent is a member of exactly one team.
 
 
-**I have developed the projecct on Intellij IDEA and JavaFX Scene Builder - Gluon**
+
+
