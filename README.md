@@ -13,7 +13,7 @@ How did the Enigma Machine work? [20 min description video](https://www.youtube.
 The difficulty of cracking the Enigma machine:  
 [video detailing the issue](https://www.youtube.com/watch?v=G2_Q9FoD-oQ).
 
-## The entities:
+## The entities (players):
 #### • UBoat 
 A German submarine responsible for determining an initial code for the machine, distributing an encrypted message and deciding which of the different teams was able to decode the message accurately (winner of the competition).
 
@@ -24,9 +24,10 @@ Decoding teams of the allies competing among themselves to be the first to succe
 Agents who are members of the various decoding teams and are responsible for performing the decoding tasks themselves. Each agent is a member of exactly one team.
 
 
-## The course of the competition
+### The comunication between the players
 ![image](https://user-images.githubusercontent.com/103381319/200266224-a92e5e16-657f-43ef-94b2-2879d915ed3d.png)
 
+## The course of the competition
 The competition starts when all players (Allies, Uboat) announce that they are ready. The UBoat will choose a code and encrypt a certain message (a valid message, from words in the dictionary). The encrypted message is transmitted and distributed to all the Allies teams participating in the competition. Each team assigns the various tasks to the agents it works with. The agents in turn start the decoding process and send possible candidates back to DM and he in turn sends them back to UBoat.
 The UBoat receives a collection of candidates from the various Allies teams and only he will be the one to determine who the winning candidate is (since only he knows which string matches the source string).
 
