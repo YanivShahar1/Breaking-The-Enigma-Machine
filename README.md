@@ -8,7 +8,7 @@ The Enigma machine was considered so secure that it was used to encipher the mos
 ## About the machine:
 How did the Enigma Machine work? [20 min description video](https://www.youtube.com/watch?v=ybkkiGtJmkM).
 
-The difficulty of cracking the Enigma machine 
+The difficulty of cracking the Enigma machine:  
 [video detailing the issue](https://www.youtube.com/watch?v=G2_Q9FoD-oQ).
 
 
