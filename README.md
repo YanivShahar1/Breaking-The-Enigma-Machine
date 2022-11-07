@@ -24,7 +24,7 @@ Agents who are members of the various decoding teams and are responsible for per
 
 ## The course of the competition
 
-![image](https://user-images.githubusercontent.com/103381319/200264372-8cab3ec2-8730-4cc7-9b2a-b97e85c572ef.png)
+![image](https://user-images.githubusercontent.com/103381319/200264372-8cab3ec2-8730-4cc7-9b2a-b97e85c572ef.png) |width=10
 
 
 
