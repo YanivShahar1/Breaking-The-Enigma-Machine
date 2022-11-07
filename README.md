@@ -23,7 +23,15 @@ Agents who are members of the various decoding teams and are responsible for per
 
 
 ## The course of the competition
-![image](https://user-images.githubusercontent.com/103381319/200265332-51fd6a82-cdad-45e4-84dd-563f6fe3cfb4.png)
+![image](https://user-images.githubusercontent.com/103381319/200265649-1435b210-e743-4616-a975-a0166650b28a.png)
 
+The competition starts when all players (Allies, Uboat) announce that they are ready. The UBoat will choose a code and encrypt a certain message (a valid message, from words in the dictionary). The encrypted message is transmitted and distributed to all the Allies teams participating in the competition. Each team assigns the various tasks to the agents it works with. The agents in turn start the decoding process and send possible candidates back to DM and he in turn sends them back to UBoat (this is the process in terms of the competition. Not necessarily in terms of the handling of the information in the DM.).
+The UBoat receives a collection of candidates from the various Allies teams and only he will be the one to determine who the winning candidate is (since only he knows which string matches the source string).
+Please note: since we are dealing with automatic decoding, it can be assumed that the machine code will not contain plugs.
 
+Each team differs from one another in the amount of (dynamic) agents it can assign and of course the size of the task.
+The agents in this exercise will be implemented as a separate process, which will (ostensibly) run from other computer(s).
+The DM itself runs inside the server (as part of the DM engine). The agents (associated with each DM) also work independently in front of the server (identifying which DM team they belong to).
 
+When a DM (=Allies) registers for the game, he sets a unique name for himself. This name will be used by him to communicate with his agents. When the agent processes are established, they will be configured to work with/against a certain DM and in all their requests to the server will bear the name of the DM they are communicating with on their back (cough cough.. cough session..).
+The agent process itself will be a standalone Java FX application. During the registration to the server (login screen) the agent must provide the name of the DM who is a member of his team.
