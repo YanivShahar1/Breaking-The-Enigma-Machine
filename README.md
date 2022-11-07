@@ -22,5 +22,9 @@ Decoding teams of the allies competing among themselves to be the first to succe
 Agents who are members of the various decoding teams and are responsible for performing the decoding tasks themselves. Each agent is a member of exactly one team.
 
 
+## The course of the competition
+
+![image](https://user-images.githubusercontent.com/103381319/200264372-8cab3ec2-8730-4cc7-9b2a-b97e85c572ef.png)
+
 
 
